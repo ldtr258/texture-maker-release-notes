@@ -1,0 +1,3 @@
+* Upgraded the UI
+* Fixed bugs and improved performance
+* Add some bugs
