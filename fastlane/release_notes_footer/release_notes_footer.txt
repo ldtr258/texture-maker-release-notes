@@ -3,3 +3,4 @@ Texture maker for Minecraft PE:
 - Get 1000+ texture pack ideas for Minecraft from the texture maker community!
 - Quickly install unlimited resource packs for Minecraft 1.26, all are manually tested before browsing and regularly updated new packs.
 - Can extract pack and edit shader, x ray, RTX, PVP pack, 16x, 32x, 128x,...
+Thanks for reading
